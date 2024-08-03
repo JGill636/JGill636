@@ -2,7 +2,7 @@
 
 I'm a rising senior studying Computer Science at the University of Maryland, College Park. I have internship experience at Booz Allen and NASA, and some of my interest areas are Full stack devolpment and AI/ML!
 
-- 🌱 I’m currently looking for software engineering and AI/Ml roles feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jaskaran-gill123/)
+- 🌱 I’m currently looking for software engineering and AI/ML roles feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jaskaran-gill123/)
 
 ## 🚀 Projects
 
