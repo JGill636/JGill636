@@ -4,8 +4,6 @@ I'm a rising senior studying Computer Science at the University of Maryland, Col
 
 - 🌱 I’m currently looking for software engineering and AI/ML roles feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jaskaran-gill123/)
 
-## 🚀 Projects
-
 
 <!--
 **JGill636/JGill636** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## 🚀 Projects
 ### [Resume to Job Description Matcher](https://github.com/yourusername/resume-matcher)
 A web application that matches resumes to job descriptions using NLP and vector search. Tech stack includes Flask, HTML/CSS/JS, Bootstrap, and a vector database.
 
